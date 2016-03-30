@@ -9,7 +9,7 @@
 3. vagrant up
 4. After vagrant is all set up, vagrant ssh and clone your project repository
 	4.1 cd into /var/www
-	4.2 git clone http://201.163.38.66:5207/appointment-plus/red-carpet.git
+	4.2 git clone <your project>
 	4.3 enter your credentials
 	4.4 After cloning your repository, you need to move this into your html folder
 		4.4.1 rm -rf html
